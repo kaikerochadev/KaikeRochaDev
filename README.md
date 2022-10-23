@@ -18,11 +18,11 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikerochadev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KaikeRochaDev" />
+<img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikerochadev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KaikeRochaDev" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaikerochadev&show_icons=true&locale=en&theme=tokyonight"alt="KaikeRochaDev"/>
+<img align="end" src="https://github-readme-stats.vercel.app/api?username=kaikerochadev&show_icons=true&locale=en&theme=tokyonight"alt="KaikeRochaDev"/>
 </a>
 
 
