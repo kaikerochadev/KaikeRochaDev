@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaerthal&show_icons=true&locale=en&theme=tokyonight"alt="liviaerthal"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaikerochadev&show_icons=true&locale=en&theme=tokyonight"alt="KaikeRochaDev"/>
 </a>
 
 
